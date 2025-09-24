@@ -1,7 +1,7 @@
 # -NLP-Based-Research-Paper-Classification-and-Conference-Recommendation
 NLP-Based Research Paper Classification and Conference Recommendation
 
-This project was developed during the KDSH Hackathon (Jan’24 – Feb’24). It builds an NLP-powered system to classify research papers as publishable and recommend the top 5 most suitable conferences for submission, based on paper content and alignment.
+This project was developed during the KDSH Hackathon (Jan’24 – Feb’24). It builds an NLP-powered system to classify research papers as publishable and recommend the top 5 most suitable conferences for submission, based on paper content and alignment. https://drive.google.com/drive/folders/1HGsyStlIUdLOU4vnkzUqfSxVZDTLYcsh?usp=sharing
 
 📌 Features
 
